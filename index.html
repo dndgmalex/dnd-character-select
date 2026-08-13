@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Selezione personaggi — Avventura Party Malvagio.">
+  <title>Avventura — Party Malvagio</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="party-malvagio.css">
+  <script src="characters.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="campaign-screen">
+    <section id="stage" class="stage" aria-label="Selezione del personaggio">
+      <header class="campaign-title" aria-label="Evil Party One-Shot">
+        <div class="compass-mark" aria-hidden="true">✦</div>
+        <div><p>Evil Party</p><h1>Choose your Character</h1></div>
+      </header>
+      <div id="character-layer" class="character-layer"></div>
+      <div class="stage-vignette" aria-hidden="true"></div>
+      <p class="selection-hint">Passa il mouse su un personaggio · Clicca per sceglierlo</p>
+    </section>
+
+    <aside id="character-info" class="character-panel" aria-live="polite">
+      <button id="audio-toggle" class="audio-toggle" type="button" aria-pressed="false" aria-label="Disattiva audio">
+        <svg class="icon icon-sound" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4Zm11.5 3a3.5 3.5 0 0 0-1.5-2.87v5.74A3.5 3.5 0 0 0 15.5 12Zm0-7v2.1a6 6 0 0 1 0 9.8V19a8 8 0 0 0 0-14Z"/></svg>
+        <svg class="icon icon-muted" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4Zm13.59 3 2.7-2.7-1.42-1.42-2.7 2.7-2.7-2.7-1.42 1.42 2.7 2.7-2.7 2.7 1.42 1.42 2.7-2.7 2.7 2.7 1.42-1.42-2.7-2.7Z"/></svg>
+      </button>
+      <div class="panel-frame">
+        <div class="closeup-frame"><img id="character-closeup" src="" alt=""></div>
+        <div class="panel-copy">
+          <p id="character-kicker" class="character-kicker">Seleziona un personaggio</p>
+          <h2 id="character-name">Nessun personaggio</h2>
+          <p id="character-subtitle" class="character-subtitle"></p>
+          <div class="rule" aria-hidden="true"></div>
+          <div class="description-scroll"><p id="character-description" class="character-description"></p></div>
+          <div class="theme-row"><span class="theme-rune" aria-hidden="true">♪</span><p id="music-status" class="music-status">Passa il mouse su un personaggio</p></div>
+        </div>
+      </div>
+    </aside>
+  </main>
+  <audio id="character-audio" preload="auto" loop></audio>
+</body>
+</html>

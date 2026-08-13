@@ -1,0 +1,1 @@
+This folder contains the Party Malvagio asset builder and site templates.
