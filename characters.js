@@ -32,7 +32,7 @@ Da diversi mesi osservo con crescente apprensione il destino della mia amata Ven
 Desidererei dunque avvalermi della vostra discrezione e delle vostre capacità per fare piena luce sulla questione. E, naturalmente, qualora emergesse qualcosa di sconveniente o — Dio ce ne scampi — dovesse persino accadere qualcosa al nostro amatissimo Principe... sarebbe dovere di ogni buon veneziano assicurarsi che una persona di adeguato lignaggio, cultura e statura fosse pronta ad assumersi il gravoso onere di succedergli. Per puro spirito di servizio alla città, s’intende.`,
     image: "assets/characters/orlandini.png",
     fallbackImage: "assets/characters/character-02.svg",
-    music: "", theme: "",
+    music: "assets/music/tears_for_fears_everybody_wants_to_rule_the_world_official_archive.mp3", theme: "Everybody Wants to Rule the World - Tears for Fears",
     detail: { x: 40, y: 1, scale: 2.05 },
     x: 12, y: 91, width: 28, scale: 1, z: 5
   },
