@@ -7,8 +7,8 @@ window.CHARACTERS = [
     description: `Mi chiamo Balthazar Vialen, ma per gli amici sono semplicemente Balthy. Sono un alchimista dall’aspetto decisamente poco rassicurante: capelli perennemente bruciacchiati, occhiali storti, grembiule pieno di macchie e più boccette addosso di quante probabilmente sia legalmente consentito trasportare. Le mie abilità più potenti consistono nel creare pozioni capaci di curare, potenziare o trasformare qualcuno… anche se gli effetti collaterali sono ancora oggetto di studio. 😈
 
 Desidero più di ogni altra cosa creare la Panacea Universale, la pozione perfetta capace di risolvere qualsiasi problema. Se durante la ricerca dovesse esplodere qualcosa, trasformarsi qualcuno o comparire una creatura non prevista… beh, significa semplicemente che sono un passo più vicino alla perfezione.`,
-    image: "assets/characters/balthazar.png",
-    fallbackImage: "assets/characters/balthazar.webp",
+    image: "assets/characters/IMG_6482.PNG",
+    fallbackImage: "assets/characters/balthazar.png",
     music: "assets/music/Ozzy Osbourne - Crazy Train.mp3",
     theme: "Crazy Train — Ozzy Osbourne",
     detail: { x: 40, y: 1, scale: 2.75 },
@@ -30,8 +30,8 @@ Quanto al fatto che costoro, insieme alle rispettive famiglie, prestino oggi ser
 Da diversi mesi osservo con crescente apprensione il destino della mia amata Venezia, attualmente affidata al Principe Umberto Brindani. Nonostante le singolari sventure che hanno recentemente afflitto tanta parte della nostra aristocrazia, il buon Principe continua, con sorprendente regolarità, ad accrescere ricchezze, influenza e potere. Una circostanza, converrete, quantomeno degna d’indagine.
 
 Desidererei dunque avvalermi della vostra discrezione e delle vostre capacità per fare piena luce sulla questione. E, naturalmente, qualora emergesse qualcosa di sconveniente o — Dio ce ne scampi — dovesse persino accadere qualcosa al nostro amatissimo Principe... sarebbe dovere di ogni buon veneziano assicurarsi che una persona di adeguato lignaggio, cultura e statura fosse pronta ad assumersi il gravoso onere di succedergli. Per puro spirito di servizio alla città, s’intende.`,
-    image: "assets/characters/orlandini.png",
-    fallbackImage: "assets/characters/character-02.svg",
+    image: "assets/characters/IMG_6484.PNG",
+    fallbackImage: "assets/characters/orlandini.png",
     music: "assets/music/tears_for_fears_everybody_wants_to_rule_the_world_official_archive.mp3", theme: "Everybody Wants to Rule the World - Tears for Fears",
     detail: { x: 40, y: 1, scale: 2.05 },
     x: 12, y: 91, width: 28, scale: 1, z: 5
@@ -44,8 +44,8 @@ Desidererei dunque avvalermi della vostra discrezione e delle vostre capacità p
     description: `Come ha fatto Sinnis in passato, scoprirete che il peccato ha due facce, e che Sinnis ne ha molte di più. Ti è mai sembrato di scorgere il tuo defunto padre in qualcuno che camminava, o magari un personaggio influente che pensavi fosse mutilato e costretto a letto? Magari era solo un’illusione, o magari no... Capire l’aspetto di Sinnis è come cercare un colore nel nero: sai che c’è, ma non saprai mai distinguere quello giusto.
 
 Sinnis impersona il più classico cavaliere senzatempo, votato al bene dei propri compagni; sempre pronto a mettere al servizio degli altri le sue straordinarie abilità. Intento nobile il suo, fino a quando non capiti nella compagnia sbagliata e abbracci il nero della tavolozza...`,
-    image: "assets/characters/sinnis.png",
-    fallbackImage: "assets/characters/character-03.svg",
+    image: "assets/characters/IMG_6483.PNG",
+    fallbackImage: "assets/characters/sinnis.png",
     music: "assets/music/heavy-is-the-crown-official-audio-linkin-park-jinvli.mp3", theme: "Heavy Is The Crown — Linkin Park",
     detail: { x: 50, y: -2, scale: 2.35 },
     x: 30, y: 89, width: 21, scale: 1.15, z: 4
@@ -64,8 +64,8 @@ Sono alto alto e ho tante corna e tante piumine morbide sulla schiena e il mio c
 I signori metallici hanno provato a farmi male tanto ma non riuscivano perché io mangio tanto e il male va via allora mi avevano messo dei chiodi addosso ad un muro e non mi davano da mangiare. Ma se non mi davano da mangiare non volevo stare lì allora me ne sono andato ma ho assaggiato tutti prima per dispetto.
 
 Ora voglio mangiare tante cose buone e diverse. :)`,
-    image: "assets/characters/p77.png",
-    fallbackImage: "assets/characters/p77.svg",
+    image: "assets/characters/IMG_6485.PNG",
+    fallbackImage: "assets/characters/p77.png",
     music: "assets/music/BUTCHER VANITY  Yi Xi.mp3", theme: "Butcher's Vanity — Yi Xi",
     detail: { x: 39, y: 1, scale: 2.5 },
     x: 78, y: 98, width: 21, scale: 2.5, z: 9
@@ -86,8 +86,8 @@ Cosa desidero? Beh, fatti un bel pacco di cazzi tuoi.
 Tu cosa desideri? Sei davvero sicuro che sia ciò che desideri, o sono io a fartelo credere? È un tuo pensiero? O è un mio pensiero che credi di aver fatto tuo? Non saprai mai dove stia la verità.
 
 Chick-Ciao.`,
-    image: "assets/characters/chickx.png",
-    fallbackImage: "assets/characters/character-05.svg",
+    image: "assets/characters/IMG_6487.PNG",
+    fallbackImage: "assets/characters/chickx.png",
     music: "assets/music/Britney Spears - Toxic.mp3", theme: "Toxic - Britney Spears",
     detail: { x: 50, y: 1, scale: 2.55 },
     x: 61, y: 93, width: 19, scale: 1.4, z: 6
@@ -104,8 +104,8 @@ Durante la cerimonia di scelta non cerca di attirare l’attenzione di nessun dr
 Dopo il legame Nesta comincia ad avere visioni di una montagna, un cadavere e un’altra creatura: un ricordo che non appartiene a lei.
 
 Vaelith le concede la manipolazione dell’energia cinetica: può rallentare un oggetto che la colpisce, deviare una freccia, aumentare la velocità dei propri movimenti, trasformare una caduta in un atterraggio quasi morbido e concentrare l’energia accumulata in un singolo colpo devastante. Più la situazione è pericolosa, più Nesta può diventare potente.`,
-    image: "assets/characters/nesta-vaelith.png",
-    fallbackImage: "assets/characters/character-06.svg",
+    image: "assets/characters/IMG_6486.PNG",
+    fallbackImage: "assets/characters/nesta-vaelith.png",
     music: "", theme: "",
     labelPosition: "top",
     labelX: 57, labelY: 22,
@@ -121,8 +121,8 @@ Vaelith le concede la manipolazione dell’energia cinetica: può rallentare un 
     Tra le sue prede in futuro è prevista anche una qualche divinità(tipo un empireo pensavo).
     Nei suoi viaggi si è imbattuto in un qualche piano elementale condannandolo a fondersi con esso.
     Sebbene sia un umano la sua età è indecifrabile esploratori, criminali e pirati vecchi e giovani parlano di lui`,
-    image: "assets/characters/ramingo.png",
-    fallbackImage: "assets/characters/character-07.svg",
+    image: "assets/characters/IMG_6488.PNG",
+    fallbackImage: "assets/characters/ramingo.png",
     music: "assets/music/black_rebel_motorcycle_club_beat_the_devil_s_tattoo.mp3", theme: "Beat the Devil's Tattoo — Black Rebel Motorcycle Club",
     labelPosition: "top",
     labelX: 44, labelY: 3,
