@@ -11,7 +11,7 @@ Desidero più di ogni altra cosa creare la Panacea Universale, la pozione perfet
     fallbackImage: "assets/characters/balthazar.png",
     music: "assets/music/Ozzy Osbourne - Crazy Train.mp3",
     theme: "Crazy Train — Ozzy Osbourne",
-    detail: { x: 40, y: 1, scale: 2.75 },
+    detail: { x: 40, y: 1, scale: 5 },
     x: 43, y: 96, width: 26, scale: 1.0, z: 8
   },
   {
@@ -47,7 +47,7 @@ Sinnis impersona il più classico cavaliere senzatempo, votato al bene dei propr
     image: "assets/characters/IMG_6483.PNG",
     fallbackImage: "assets/characters/sinnis.png",
     music: "assets/music/heavy-is-the-crown-official-audio-linkin-park-jinvli.mp3", theme: "Heavy Is The Crown — Linkin Park",
-    detail: { x: 50, y: -2, scale: 2.35 },
+    detail: { x: 50, y: -2, scale: 2.5 },
     x: 30, y: 89, width: 21, scale: 1.15, z: 4
   },
   {
@@ -89,8 +89,8 @@ Chick-Ciao.`,
     image: "assets/characters/IMG_6487.PNG",
     fallbackImage: "assets/characters/chickx.png",
     music: "assets/music/Britney Spears - Toxic.mp3", theme: "Toxic - Britney Spears",
-    detail: { x: 50, y: 1, scale: 2.55 },
-    x: 61, y: 93, width: 19, scale: 1.4, z: 6
+    detail: { x: 50, y: 1, scale: 2.35 },
+    x: 22, y: 93, width: 19, scale: 1.4, z: 6
   },
   {
     id: "nesta",
