@@ -11,8 +11,8 @@ Desidero più di ogni altra cosa creare la Panacea Universale, la pozione perfet
     fallbackImage: "assets/characters/balthazar.png",
     music: "assets/music/Ozzy Osbourne - Crazy Train.mp3",
     theme: "Crazy Train — Ozzy Osbourne",
-    detail: { x: 40, y: 1, scale: 5 },
-    x: 43, y: 96, width: 26, scale: 1.0, z: 8
+    detail: { x: 55, y: 5, scale: 1.5 },
+    x: 51, y: 95, width: 26, scale: 0.84, z: 3
   },
   {
     id: "conte-osvaldo-orlandini",
@@ -33,8 +33,8 @@ Desidererei dunque avvalermi della vostra discrezione e delle vostre capacità p
     image: "assets/characters/IMG_6484.PNG",
     fallbackImage: "assets/characters/orlandini.png",
     music: "assets/music/tears_for_fears_everybody_wants_to_rule_the_world_official_archive.mp3", theme: "Everybody Wants to Rule the World - Tears for Fears",
-    detail: { x: 40, y: 1, scale: 2.05 },
-    x: 12, y: 91, width: 28, scale: 1, z: 5
+    detail: { x: 25, y: 2, scale: 1.5 },
+    x: 32, y: 95, width: 28, scale: 0.85, z: 3
   },
   {
     id: "sinnis",
@@ -47,14 +47,16 @@ Sinnis impersona il più classico cavaliere senzatempo, votato al bene dei propr
     image: "assets/characters/IMG_6483.PNG",
     fallbackImage: "assets/characters/sinnis.png",
     music: "assets/music/heavy-is-the-crown-official-audio-linkin-park-jinvli.mp3", theme: "Heavy Is The Crown — Linkin Park",
-    detail: { x: 50, y: -2, scale: 2.5 },
-    x: 30, y: 89, width: 21, scale: 1.15, z: 4
+    detail: { x: 35, y: 5, scale: 1.5 },
+    x: 64, y: 92, width: 21, scale: 1.55, z: 1
   },
   {
     id: "p77",
     name: "P77",
     shortName: "P77",
     subtitle: "Esperimento · Affamato",
+    labelPosition: "top",
+    labelX: 32, labelY: 10,
     description: `Ciao non so come mi chiamo ma i signori metallici della casa con le sbarre mi chiamavano P77.
 
 Ho vissuto lì sempre e non ricordo bene mamma e papà ma mamma sapeva di rose e limone e papà urlava e non mi piaceva che urlava e avevo tanta fame allora l'ho mangiato.
@@ -67,8 +69,8 @@ Ora voglio mangiare tante cose buone e diverse. :)`,
     image: "assets/characters/IMG_6485.PNG",
     fallbackImage: "assets/characters/p77.png",
     music: "assets/music/BUTCHER VANITY  Yi Xi.mp3", theme: "Butcher's Vanity — Yi Xi",
-    detail: { x: 39, y: 1, scale: 2.5 },
-    x: 78, y: 98, width: 21, scale: 2.5, z: 9
+    detail: { x: -5, y: 15, scale: 1.5 },
+    x: 48, y: 95, width: 21, scale: 1.5, z: 1
   },
   {
     id: "carlo-xaviero",
@@ -89,8 +91,10 @@ Chick-Ciao.`,
     image: "assets/characters/IMG_6487.PNG",
     fallbackImage: "assets/characters/chickx.png",
     music: "assets/music/Britney Spears - Toxic.mp3", theme: "Toxic - Britney Spears",
-    detail: { x: 50, y: 1, scale: 2.35 },
-    x: 22, y: 93, width: 19, scale: 1.4, z: 6
+    labelPosition: "top",
+    labelX: 77, labelY: -7,
+    detail: { x: 105, y: 1, scale: 1.9 },
+    x: 82, y: 95, width: 19, scale: 1.95, z: 0
   },
   {
     id: "nesta",
@@ -109,8 +113,8 @@ Vaelith le concede la manipolazione dell’energia cinetica: può rallentare un 
     music: "", theme: "",
     labelPosition: "top",
     labelX: 57, labelY: 22,
-    detail: { x: 60, y: 26, scale: 3.5 },
-    x: 42, y: 78, width: 35, scale: 1.8, z: 2
+    detail: { x: 22, y: 35, scale: 1.1 },
+    x: 12, y: 95, width: 36, scale: 0.75, z: 1
   },
   {
     id: "il-ramingo",
@@ -126,7 +130,7 @@ Vaelith le concede la manipolazione dell’energia cinetica: può rallentare un 
     music: "assets/music/black_rebel_motorcycle_club_beat_the_devil_s_tattoo.mp3", theme: "Beat the Devil's Tattoo — Black Rebel Motorcycle Club",
     labelPosition: "top",
     labelX: 44, labelY: 3,
-    detail: { x: 44, y: 1, scale: 1.85 },
-    x: 84, y: 90, width: 29, scale: 1, z: 7
+    detail: { x: 25, y: 25, scale: 1.5 },
+    x: 80, y: 95, width: 29, scale: 0.8, z: 1
   }
 ];
