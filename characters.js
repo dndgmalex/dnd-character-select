@@ -19,7 +19,7 @@ Desidererei dunque avvalermi della vostra discrezione e delle vostre capacità p
     fallbackImage: "assets/characters/orlandini.png",
     music: "assets/music/tears_for_fears_everybody_wants_to_rule_the_world_official_archive.mp3", theme: "Everybody Wants to Rule the World - Tears for Fears",
     detail: { x: 20, y: 2, scale: 1.5 },
-    x: 32, y: 95, width: 28, scale: 0.85, z: 3
+    x: 18, y: 95, width: 28, scale: 0.85, z: 3
   },
   {
     id: "sinnis",
