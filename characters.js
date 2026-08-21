@@ -1,20 +1,5 @@
 window.CHARACTERS = [
   {
-    id: "balthazar-vialen",
-    name: "Balthazar “Balthy” Vialen",
-    shortName: "Balthy",
-    subtitle: "Alchimista · Panacea Universale",
-    description: `Mi chiamo Balthazar Vialen, ma per gli amici sono semplicemente Balthy. Sono un alchimista dall’aspetto decisamente poco rassicurante: capelli perennemente bruciacchiati, occhiali storti, grembiule pieno di macchie e più boccette addosso di quante probabilmente sia legalmente consentito trasportare. Le mie abilità più potenti consistono nel creare pozioni capaci di curare, potenziare o trasformare qualcuno… anche se gli effetti collaterali sono ancora oggetto di studio. 😈
-
-Desidero più di ogni altra cosa creare la Panacea Universale, la pozione perfetta capace di risolvere qualsiasi problema. Se durante la ricerca dovesse esplodere qualcosa, trasformarsi qualcuno o comparire una creatura non prevista… beh, significa semplicemente che sono un passo più vicino alla perfezione.`,
-    image: "assets/characters/IMG_6482.PNG",
-    fallbackImage: "assets/characters/balthazar.png",
-    music: "assets/music/Ozzy Osbourne - Crazy Train.mp3",
-    theme: "Crazy Train — Ozzy Osbourne",
-    detail: { x: 55, y: 5, scale: 1.5 },
-    x: 51, y: 95, width: 26, scale: 0.84, z: 3
-  },
-  {
     id: "conte-osvaldo-orlandini",
     name: "Conte Osvaldo Orlandini",
     shortName: "Conte Orlandini",
@@ -33,7 +18,7 @@ Desidererei dunque avvalermi della vostra discrezione e delle vostre capacità p
     image: "assets/characters/IMG_6484.PNG",
     fallbackImage: "assets/characters/orlandini.png",
     music: "assets/music/tears_for_fears_everybody_wants_to_rule_the_world_official_archive.mp3", theme: "Everybody Wants to Rule the World - Tears for Fears",
-    detail: { x: 25, y: 2, scale: 1.5 },
+    detail: { x: 20, y: 2, scale: 1.5 },
     x: 32, y: 95, width: 28, scale: 0.85, z: 3
   },
   {
@@ -70,7 +55,22 @@ Ora voglio mangiare tante cose buone e diverse. :)`,
     fallbackImage: "assets/characters/p77.png",
     music: "assets/music/BUTCHER VANITY  Yi Xi.mp3", theme: "Butcher's Vanity — Yi Xi",
     detail: { x: -5, y: 15, scale: 1.5 },
-    x: 48, y: 95, width: 21, scale: 1.5, z: 1
+    x: 40, y: 95, width: 21, scale: 1.5, z: 1
+  },
+  {
+    id: "balthazar-vialen",
+    name: "Balthazar “Balthy” Vialen",
+    shortName: "Balthy",
+    subtitle: "Alchimista · Panacea Universale",
+    description: `Mi chiamo Balthazar Vialen, ma per gli amici sono semplicemente Balthy. Sono un alchimista dall’aspetto decisamente poco rassicurante: capelli perennemente bruciacchiati, occhiali storti, grembiule pieno di macchie e più boccette addosso di quante probabilmente sia legalmente consentito trasportare. Le mie abilità più potenti consistono nel creare pozioni capaci di curare, potenziare o trasformare qualcuno… anche se gli effetti collaterali sono ancora oggetto di studio. 😈
+
+Desidero più di ogni altra cosa creare la Panacea Universale, la pozione perfetta capace di risolvere qualsiasi problema. Se durante la ricerca dovesse esplodere qualcosa, trasformarsi qualcuno o comparire una creatura non prevista… beh, significa semplicemente che sono un passo più vicino alla perfezione.`,
+    image: "assets/characters/IMG_6482.PNG",
+    fallbackImage: "assets/characters/balthazar.png",
+    music: "assets/music/Ozzy Osbourne - Crazy Train.mp3",
+    theme: "Crazy Train — Ozzy Osbourne",
+    detail: { x: 50, y: 5, scale: 1.5 },
+    x: 51, y: 95, width: 26, scale: 0.84, z: 3
   },
   {
     id: "carlo-xaviero",
@@ -97,26 +97,6 @@ Chick-Ciao.`,
     x: 82, y: 95, width: 19, scale: 1.95, z: 0
   },
   {
-    id: "nesta",
-    name: "Nesta",
-    shortName: "Nesta & Vaelith",
-    subtitle: "Mezzelfa · Dragon Rider di Vaelith",
-    description: `Nesta è nata in una famiglia di Dragon Riders estremamente rispettata. Suo padre era un cavaliere leggendario e sua madre una delle migliori strateghe dell’accademia. Ma lei non è una combattente: è gracile, ha poca resistenza e detesta gli scontri fisici. A diciannove anni viene mandata all’accademia dei cavalieri e sa che probabilmente morirà durante l’addestramento. Non vuole diventare la migliore. Vuole sopravvivere. E quindi studia, osserva, impara.
-
-Durante la cerimonia di scelta non cerca di attirare l’attenzione di nessun drago. Vaelith, creatura antichissima ed estremamente intelligente che per anni ha rifiutato ogni candidato, vede in lei qualcosa che gli altri non vedono: il coraggio. La sceglie non nonostante la sua fragilità, ma proprio perché è fragile e sa guardare oltre la paura.
-
-Dopo il legame Nesta comincia ad avere visioni di una montagna, un cadavere e un’altra creatura: un ricordo che non appartiene a lei.
-
-Vaelith le concede la manipolazione dell’energia cinetica: può rallentare un oggetto che la colpisce, deviare una freccia, aumentare la velocità dei propri movimenti, trasformare una caduta in un atterraggio quasi morbido e concentrare l’energia accumulata in un singolo colpo devastante. Più la situazione è pericolosa, più Nesta può diventare potente.`,
-    image: "assets/characters/IMG_6486.PNG",
-    fallbackImage: "assets/characters/nesta-vaelith.png",
-    music: "", theme: "",
-    labelPosition: "top",
-    labelX: 57, labelY: 22,
-    detail: { x: 22, y: 35, scale: 1.1 },
-    x: 12, y: 95, width: 36, scale: 0.75, z: 1
-  },
-  {
     id: "il-ramingo",
     name: "Il Ramingo",
     shortName: "Il Ramingo",
@@ -134,3 +114,23 @@ Vaelith le concede la manipolazione dell’energia cinetica: può rallentare un 
     x: 80, y: 95, width: 29, scale: 0.8, z: 1
   }
 ];
+//   {
+//     id: "nesta",
+//     name: "Nesta",
+//     shortName: "Nesta & Vaelith",
+//     subtitle: "Mezzelfa · Dragon Rider di Vaelith",
+//     description: `Nesta è nata in una famiglia di Dragon Riders estremamente rispettata. Suo padre era un cavaliere leggendario e sua madre una delle migliori strateghe dell’accademia. Ma lei non è una combattente: è gracile, ha poca resistenza e detesta gli scontri fisici. A diciannove anni viene mandata all’accademia dei cavalieri e sa che probabilmente morirà durante l’addestramento. Non vuole diventare la migliore. Vuole sopravvivere. E quindi studia, osserva, impara.
+
+// Durante la cerimonia di scelta non cerca di attirare l’attenzione di nessun drago. Vaelith, creatura antichissima ed estremamente intelligente che per anni ha rifiutato ogni candidato, vede in lei qualcosa che gli altri non vedono: il coraggio. La sceglie non nonostante la sua fragilità, ma proprio perché è fragile e sa guardare oltre la paura.
+
+// Dopo il legame Nesta comincia ad avere visioni di una montagna, un cadavere e un’altra creatura: un ricordo che non appartiene a lei.
+
+// Vaelith le concede la manipolazione dell’energia cinetica: può rallentare un oggetto che la colpisce, deviare una freccia, aumentare la velocità dei propri movimenti, trasformare una caduta in un atterraggio quasi morbido e concentrare l’energia accumulata in un singolo colpo devastante. Più la situazione è pericolosa, più Nesta può diventare potente.`,
+//     image: "assets/characters/IMG_6486.PNG",
+//     fallbackImage: "assets/characters/nesta-vaelith.png",
+//     music: "", theme: "",
+//     labelPosition: "top",
+//     labelX: 57, labelY: 22,
+//     detail: { x: 22, y: 35, scale: 1.1 },
+//     x: 12, y: 95, width: 36, scale: 0.75, z: 1
+//   },
