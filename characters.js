@@ -77,10 +77,14 @@ Desidero più di ogni altra cosa creare la Panacea Universale, la pozione perfet
     name: "Il Ramingo",
     shortName: "Il Ramingo",
     subtitle: "Cacciatore · Primordiale",
-    description: `Un cacciatore, ricerca artefatti, tesori, parti di bestie rare ed introvabili(e difficili da tirare giù). 
-    Tra le sue prede in futuro è prevista anche una qualche divinità(tipo un empireo pensavo).
-    Nei suoi viaggi si è imbattuto in un qualche piano elementale condannandolo a fondersi con esso.
-    Sebbene sia un umano la sua età è indecifrabile esploratori, criminali e pirati vecchi e giovani parlano di lui`,
+    description: `Cacciatore di grosse prede, nel suo aspetto riconoscete quello che è un umano ma dallo sguardo freddo, a tratti vuoto percepite qualcosa di strano e misterioso. 
+    
+    Lo avete conosciuto tramite dei contatti nei bassifondi e vi è stato molto raccomandato, l'unica irregolarità e che parlando con pirati, esploratori o contrabbandieri vecchi e giovani tutti sembrano conoscerlo (anche solo per sentito dire) addirittura vi sono rapporti di polizia,anche risalenti ad un secolo prima, che parlano di una figura molto simile a lui.
+Il suo obiettivo vi è sconosciuto, il perché cacci vi è sconosciuto, come sceglie le sue prede vi è sconosciuto, perché colleziona determinati artefatti vi è sconosciuto.
+
+Si accompagna con P77,i due si sono incontrati durante una battuta di caccia ad un drago antico, terminata con successo. il motivo per cui Il Ramingo non è ancora stato sbranato non è chiaro, il motivo per cui non abbia mai raccolto la taglia su P77 non si è mai capito, di fatto i due vivono in equilibrio.
+
+Ha deciso di imbarcarsi nella crociata del conte alla riconquista di Hystria, poiché gli sono giunte voci da fonti affidabili che il principe di Hystria nasconde un segreto, pertanto adesso mentre raccoglie informazioni soggiorna presso il conte e occasionalmente gli rende anche qualche favore per tenersi allenato.`,
     image: "assets/characters/IMG_6488.PNG",
     fallbackImage: "assets/characters/ramingo.png",
     music: "assets/music/black_rebel_motorcycle_club_beat_the_devil_s_tattoo.mp3", theme: "Beat the Devil's Tattoo — Black Rebel Motorcycle Club",
