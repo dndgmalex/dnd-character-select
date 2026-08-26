@@ -73,30 +73,6 @@ Desidero più di ogni altra cosa creare la Panacea Universale, la pozione perfet
     x: 51, y: 95, width: 26, scale: 0.84, z: 3
   },
   {
-    id: "carlo-xaviero",
-    name: "Carlo Xaviero — Chick-X",
-    shortName: "Chick-X",
-    subtitle: "Psionico · Manipolatore",
-    description: `Ciao, mi chiamo Carlo Xaviero, in arte Chick-X.
-
-Sono pelato, alto ed esile, vestito sempre elegante. Sono uno stronzo manipolatore, un gran figlio di puttana, e un pazzo scriteriato. Ma ho anche dei difetti.
-
-Adoro leggere nella mente delle persone, fare del male dall'interno, indurle a servirmi e distruggersi. All'occorrenza, magari prendo pure possesso della tua coscienza, se mi va.
-
-Cosa desidero? Beh, fatti un bel pacco di cazzi tuoi.
-
-Tu cosa desideri? Sei davvero sicuro che sia ciò che desideri, o sono io a fartelo credere? È un tuo pensiero? O è un mio pensiero che credi di aver fatto tuo? Non saprai mai dove stia la verità.
-
-Chick-Ciao.`,
-    image: "assets/characters/IMG_6487.PNG",
-    fallbackImage: "assets/characters/chickx.png",
-    music: "assets/music/Britney Spears - Toxic.mp3", theme: "Toxic - Britney Spears",
-    labelPosition: "top",
-    labelX: 77, labelY: -7,
-    detail: { x: 105, y: 1, scale: 1.9 },
-    x: 82, y: 95, width: 19, scale: 1.95, z: 0
-  },
-  {
     id: "il-ramingo",
     name: "Il Ramingo",
     shortName: "Il Ramingo",
@@ -114,6 +90,31 @@ Chick-Ciao.`,
     x: 80, y: 95, width: 29, scale: 0.8, z: 1
   }
 ];
+
+//   {
+//     id: "carlo-xaviero",
+//     name: "Carlo Xaviero — Chick-X",
+//     shortName: "Chick-X",
+//     subtitle: "Psionico · Manipolatore",
+//     description: `Ciao, mi chiamo Carlo Xaviero, in arte Chick-X.
+
+// Sono pelato, alto ed esile, vestito sempre elegante. Sono uno stronzo manipolatore, un gran figlio di puttana, e un pazzo scriteriato. Ma ho anche dei difetti.
+
+// Adoro leggere nella mente delle persone, fare del male dall'interno, indurle a servirmi e distruggersi. All'occorrenza, magari prendo pure possesso della tua coscienza, se mi va.
+
+// Cosa desidero? Beh, fatti un bel pacco di cazzi tuoi.
+
+// Tu cosa desideri? Sei davvero sicuro che sia ciò che desideri, o sono io a fartelo credere? È un tuo pensiero? O è un mio pensiero che credi di aver fatto tuo? Non saprai mai dove stia la verità.
+
+// Chick-Ciao.`,
+//     image: "assets/characters/IMG_6487.PNG",
+//     fallbackImage: "assets/characters/chickx.png",
+//     music: "assets/music/Britney Spears - Toxic.mp3", theme: "Toxic - Britney Spears",
+//     labelPosition: "top",
+//     labelX: 77, labelY: -7,
+//     detail: { x: 105, y: 1, scale: 1.9 },
+//     x: 82, y: 95, width: 19, scale: 1.95, z: 0
+//   },
 //   {
 //     id: "nesta",
 //     name: "Nesta",
