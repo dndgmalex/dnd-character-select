@@ -1,6 +1,6 @@
 /* Final composition overrides for the campaign-specific roster. */
 .campaign-screen{grid-template-columns:minmax(0,1fr) clamp(350px,28vw,455px)}
-.stage{background-position:center center;background-image:linear-gradient(90deg,transparent 68%,rgba(5,3,2,.45) 100%),linear-gradient(180deg,rgba(3,2,2,.08),rgba(4,3,2,.06) 56%,rgba(4,3,2,.34) 100%),url("assets/backgrounds/b046067f4c7262f8d024578c3a445321.jpg")}
+.stage{background-position:center center;background-image:linear-gradient(90deg,transparent 68%,rgba(5,3,2,.45) 100%),linear-gradient(180deg,rgba(3,2,2,.08),rgba(4,3,2,.06) 56%,rgba(4,3,2,.34) 100%),url("assets/backgrounds/party-malvagio.jpg")}
 .stage::after{background:radial-gradient(ellipse at 50% 45%,transparent 18%,rgba(0,0,0,.12) 62%,rgba(0,0,0,.38) 100%),linear-gradient(180deg,rgba(0,0,0,.32),transparent 24%)}
 .stage-vignette{box-shadow:inset 0 0 150px 20px rgba(0,0,0,.64),inset 0 -95px 75px -40px rgba(0,0,0,.42)}
 .campaign-title{top:24px;left:28px;max-width:430px}
